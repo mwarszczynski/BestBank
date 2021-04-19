@@ -1,0 +1,2 @@
+INSERT INTO `CLIENTS` (loginId, firstName, lastName, pesel) VALUES (000000001, 'Jan', 'Kowalski', '80060722345');
+INSERT INTO CLIENTS (loginId, firstName, lastName, pesel) VALUES (000000002, 'Joanna', 'Kowalska', '80060733356');
